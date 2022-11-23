@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, machine learning and fictionary worlds
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on anything that provides me the oppurtunity learn and implement new things
-- 📫 How to reach me <**(mailme.garvit@gmail.com)**)>
+- 📫 How to reach me garviatwork@gmail.com
 
 <!---
 itsmegarvi/itsmegarvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
