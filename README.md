@@ -5,9 +5,9 @@
 - 📫 How to reach me garviatwork@gmail.com
 
 <br><br>
-<!--[![Garvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmegarvi&hide=contribs&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Garvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmegarvi&hide=contribs&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<br>--><br>
+<br><br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsmegarvi&theme=dark)](https://git.io/streak-stats)
 
 <!---
