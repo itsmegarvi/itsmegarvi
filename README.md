@@ -5,12 +5,19 @@
 - 📫 How to reach me garviatwork@gmail.com
 
 <br><br>
-[![Garvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmegarvi&hide=contribs&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Garvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmegarvi&hide=contribs&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmegarvi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
 <br><br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsmegarvi&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsmegarvi&theme=tokyonight)](https://git.io/streak-stats)
 
 <!---
 itsmegarvi/itsmegarvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmegarvi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=itsmegarvi&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
