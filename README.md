@@ -23,6 +23,11 @@
 ### Last 5 Books I Have Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Legends & Lattes (Legends & Lattes, #1)](https://www.goodreads.com/review/show/5745087251?utm_medium=api&utm_source=rss) by Travis  Baldree (⭐⭐⭐⭐)
+- [A Gentleman in Moscow](https://www.goodreads.com/review/show/5695064956?utm_medium=api&utm_source=rss) by Amor Towles (⭐⭐⭐⭐⭐)
+- [Several People Are Typing](https://www.goodreads.com/review/show/5764344454?utm_medium=api&utm_source=rss) by Calvin Kasulke (⭐⭐⭐)
+- [your name.](https://www.goodreads.com/review/show/5695052178?utm_medium=api&utm_source=rss) by Makoto Shinkai (⭐⭐⭐⭐⭐)
+- [The Seven Husbands of Evelyn Hugo](https://www.goodreads.com/review/show/5695054985?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=itsmegarvi&theme=monokai&count_private=true)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
