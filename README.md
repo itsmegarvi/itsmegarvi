@@ -5,22 +5,18 @@
 - 📫 How to reach me garviatwork@gmail.com
 
 <br><br>
-![Garvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmegarvi&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats)-->  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmegarvi&layout=compact&hide=jupyter%20notebook&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats) -->
+![Garvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmegarvi&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats)--> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmegarvi&layout=compact&hide=jupyter%20notebook&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats) -->
 <br>
 <br><br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=itsmegarvi&theme=tokyonight&count_private=true) <!--(https://git.io/streak-stats)-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmegarvi&" /></p>
+<br />
 
+### Books I'm currently reading
 
-<!---
-itsmegarvi/itsmegarvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmegarvi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
-<br><br>
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
+<br /><br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=itsmegarvi&theme=monokai&count_private=true)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
