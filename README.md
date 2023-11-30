@@ -22,11 +22,11 @@
 ### Last 5 Books I Have Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Starting Over (Reincarnation of the Strongest Sword God, #1)](https://www.goodreads.com/review/show/6013887525?utm_medium=api&utm_source=rss) by Lucky Old Cat (unrated)
 - [Legends & Lattes (Legends & Lattes, #1)](https://www.goodreads.com/review/show/5745087251?utm_medium=api&utm_source=rss) by Travis  Baldree (⭐⭐⭐⭐)
 - [A Gentleman in Moscow](https://www.goodreads.com/review/show/5695064956?utm_medium=api&utm_source=rss) by Amor Towles (⭐⭐⭐⭐⭐)
 - [Several People Are Typing](https://www.goodreads.com/review/show/5764344454?utm_medium=api&utm_source=rss) by Calvin Kasulke (⭐⭐⭐)
 - [your name.](https://www.goodreads.com/review/show/5695052178?utm_medium=api&utm_source=rss) by Makoto Shinkai (⭐⭐⭐⭐⭐)
-- [The Seven Husbands of Evelyn Hugo](https://www.goodreads.com/review/show/5695054985?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <br /><br>
