@@ -18,7 +18,6 @@
 - [Dune (Dune, #1)](https://www.goodreads.com/review/show/5695066969?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.31)
 <!-- GOODREADS-LIST:END -->
 
-<br /><br>
 
 ### Last 5 Books I Have Read
 
@@ -29,5 +28,7 @@
 - [your name.](https://www.goodreads.com/review/show/5695052178?utm_medium=api&utm_source=rss) by Makoto Shinkai (⭐⭐⭐⭐⭐)
 - [The Seven Husbands of Evelyn Hugo](https://www.goodreads.com/review/show/5695054985?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
+
+<br /><br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=itsmegarvi&theme=monokai&count_private=true)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
