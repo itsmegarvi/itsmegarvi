@@ -20,4 +20,9 @@
 
 <br /><br>
 
+### Last 5 Books I Have Read
+
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=itsmegarvi&theme=monokai&count_private=true)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
