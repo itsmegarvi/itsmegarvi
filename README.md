@@ -15,6 +15,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/6025377517?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.36)
 - [Dune (Dune, #1)](https://www.goodreads.com/review/show/5695066969?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.31)
 <!-- GOODREADS-LIST:END -->
 
