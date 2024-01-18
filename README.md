@@ -22,11 +22,11 @@
 ### Last 5 Books I Have Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/6025377517?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐⭐⭐⭐⭐)
 - [Picking Up Attributes From Today](https://www.goodreads.com/review/show/6059507155?utm_medium=api&utm_source=rss) by Panda Reunion (unrated)
 - [Starting Over (Reincarnation of the Strongest Sword God, #1)](https://www.goodreads.com/review/show/6013887525?utm_medium=api&utm_source=rss) by Lucky Old Cat (unrated)
 - [Legends & Lattes (Legends & Lattes, #1)](https://www.goodreads.com/review/show/5745087251?utm_medium=api&utm_source=rss) by Travis  Baldree (⭐⭐⭐⭐)
 - [A Gentleman in Moscow](https://www.goodreads.com/review/show/5695064956?utm_medium=api&utm_source=rss) by Amor Towles (⭐⭐⭐⭐⭐)
-- [Several People Are Typing](https://www.goodreads.com/review/show/5764344454?utm_medium=api&utm_source=rss) by Calvin Kasulke (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <br /><br>
