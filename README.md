@@ -15,6 +15,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [Red Rising (Red Rising Saga, #1)](https://www.goodreads.com/review/show/3286077260?utm_medium=api&utm_source=rss) by Pierce Brown (⭐️4.25)
 - [Dune (Dune, #1)](https://www.goodreads.com/review/show/5695066969?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.31)
 <!-- GOODREADS-LIST:END -->
 
