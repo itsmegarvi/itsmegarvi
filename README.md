@@ -15,6 +15,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [The House in the Cerulean Sea (The House in the Cerulean Sea, #1)](https://www.goodreads.com/review/show/3423229156?utm_medium=api&utm_source=rss) by T.J. Klune (⭐️4.4)
 - [Dune (Dune, #1)](https://www.goodreads.com/review/show/5695066969?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.31)
 <!-- GOODREADS-LIST:END -->
 
