@@ -22,11 +22,11 @@
 ### Last 5 Books I Have Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Lightning Thief (Percy Jackson and the Olympians, #1)](https://www.goodreads.com/review/show/6318541241?utm_medium=api&utm_source=rss) by Rick Riordan (⭐⭐⭐⭐⭐)
+- [The House in the Cerulean Sea (The House in the Cerulean Sea, #1)](https://www.goodreads.com/review/show/3423229156?utm_medium=api&utm_source=rss) by T.J. Klune (⭐⭐⭐⭐)
 - [Red Rising (Red Rising Saga, #1)](https://www.goodreads.com/review/show/3286077260?utm_medium=api&utm_source=rss) by Pierce Brown (⭐⭐⭐⭐⭐)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/6025377517?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐⭐⭐⭐⭐)
 - [Picking Up Attributes From Today](https://www.goodreads.com/review/show/6059507155?utm_medium=api&utm_source=rss) by Panda Reunion (unrated)
-- [Starting Over (Reincarnation of the Strongest Sword God, #1)](https://www.goodreads.com/review/show/6013887525?utm_medium=api&utm_source=rss) by Lucky Old Cat (unrated)
-- [Legends & Lattes (Legends & Lattes, #1)](https://www.goodreads.com/review/show/5745087251?utm_medium=api&utm_source=rss) by Travis  Baldree (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <br /><br>
