@@ -15,7 +15,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [Dune (Dune, #1)](https://www.goodreads.com/review/show/5695066969?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.32)
+- [Dune (Dune #1)](https://www.goodreads.com/review/show/5695066969?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.32)
 <!-- GOODREADS-LIST:END -->
 
 
