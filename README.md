@@ -15,6 +15,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [Kyā khoyā kyā pāyā: Aṭala Bihārī Vājapeyī, vyaktitva aura kavitāeṃ](https://www.goodreads.com/review/show/6505424617?utm_medium=api&utm_source=rss) by Atal Bihari Vajpayee (⭐️4.29)
 - [Dune (Dune, #1)](https://www.goodreads.com/review/show/5695066969?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.32)
 <!-- GOODREADS-LIST:END -->
 
