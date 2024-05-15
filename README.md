@@ -22,7 +22,7 @@
 ### Last 5 Books I Have Read
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Tress of the Emerald Sea](https://www.goodreads.com/review/show/5745097690?utm_medium=api&utm_source=rss) by Brandon Sanderson (unrated)
+- [Tress of the Emerald Sea](https://www.goodreads.com/review/show/5745097690?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐⭐⭐⭐⭐)
 - [The Lightning Thief (Percy Jackson and the Olympians, #1)](https://www.goodreads.com/review/show/6318541241?utm_medium=api&utm_source=rss) by Rick Riordan (⭐⭐⭐⭐⭐)
 - [The House in the Cerulean Sea (The House in the Cerulean Sea, #1)](https://www.goodreads.com/review/show/3423229156?utm_medium=api&utm_source=rss) by T.J. Klune (⭐⭐⭐⭐)
 - [Red Rising (Red Rising Saga, #1)](https://www.goodreads.com/review/show/3286077260?utm_medium=api&utm_source=rss) by Pierce Brown (⭐⭐⭐⭐⭐)
