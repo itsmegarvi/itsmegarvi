@@ -22,11 +22,11 @@
 ### Last 5 Books I Have Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Kyā khoyā kyā pāyā: Aṭala Bihārī Vājapeyī, vyaktitva aura kavitāeṃ](https://www.goodreads.com/review/show/6505424617?utm_medium=api&utm_source=rss) by Atal Bihari Vajpayee (⭐⭐⭐⭐)
+- [우리 삼촌은 월드스타 (My Uncle is a Superstar)](https://www.goodreads.com/review/show/6507113424?utm_medium=api&utm_source=rss) by Huh wonjin (⭐⭐⭐⭐)
+- [The Dark Magician Transmigrates After 66666 Years](https://www.goodreads.com/review/show/6507101705?utm_medium=api&utm_source=rss) by 화봉 (⭐⭐⭐⭐)
 - [Tress of the Emerald Sea](https://www.goodreads.com/review/show/5745097690?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐⭐⭐⭐⭐)
 - [The Lightning Thief (Percy Jackson and the Olympians, #1)](https://www.goodreads.com/review/show/6318541241?utm_medium=api&utm_source=rss) by Rick Riordan (⭐⭐⭐⭐⭐)
-- [The House in the Cerulean Sea (The House in the Cerulean Sea, #1)](https://www.goodreads.com/review/show/3423229156?utm_medium=api&utm_source=rss) by T.J. Klune (⭐⭐⭐⭐)
-- [Red Rising (Red Rising Saga, #1)](https://www.goodreads.com/review/show/3286077260?utm_medium=api&utm_source=rss) by Pierce Brown (⭐⭐⭐⭐⭐)
-- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/6025377517?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <br /><br>
