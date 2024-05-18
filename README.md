@@ -15,7 +15,8 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [Dune (Dune, #1)](https://www.goodreads.com/review/show/5695066969?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.32)
+- [The Kite Runner](https://www.goodreads.com/review/show/5703446795?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.34)
+- [The Frugal Wizard’s Handbook for Surviving Medieval England](https://www.goodreads.com/review/show/6515316430?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️3.75)
 <!-- GOODREADS-LIST:END -->
 
 
