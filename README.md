@@ -16,7 +16,6 @@
 
 <!-- GOODREADS-LIST:START -->
 - [The Kite Runner](https://www.goodreads.com/review/show/5703446795?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.34)
-- [The Frugal Wizard’s Handbook for Surviving Medieval England](https://www.goodreads.com/review/show/6515316430?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️3.75)
 <!-- GOODREADS-LIST:END -->
 
 
