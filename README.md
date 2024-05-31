@@ -15,7 +15,6 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [Anxious People](https://www.goodreads.com/review/show/6509187008?utm_medium=api&utm_source=rss) by Fredrik Backman (⭐️4.18)
 - [The Kite Runner](https://www.goodreads.com/review/show/5703446795?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
