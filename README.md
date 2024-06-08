@@ -15,6 +15,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/review/show/6348643756?utm_medium=api&utm_source=rss) by Philip K. Dick (⭐️4.17)
 - [The Kite Runner](https://www.goodreads.com/review/show/5703446795?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
