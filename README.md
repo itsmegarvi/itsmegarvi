@@ -15,7 +15,6 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [Yumi and the Nightmare Painter](https://www.goodreads.com/review/show/5729975571?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.48)
 - [The Kite Runner](https://www.goodreads.com/review/show/5703446795?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
