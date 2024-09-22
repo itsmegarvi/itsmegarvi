@@ -24,7 +24,7 @@
 ### Last 5 Books I Have Read
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Solo leveling - light Novel (Solo leveling Vol 2)](https://www.goodreads.com/review/show/3693864170?utm_medium=api&utm_source=rss) by Chugong (unrated)
+- [Solo leveling - light Novel 2 (Solo leveling Vol 2)](https://www.goodreads.com/review/show/3693864170?utm_medium=api&utm_source=rss) by Chugong (unrated)
 - [Animal Farm](https://www.goodreads.com/review/show/6856126903?utm_medium=api&utm_source=rss) by George Orwell (⭐⭐⭐⭐)
 - [The Sea of Monsters (Percy Jackson and the Olympians #2)](https://www.goodreads.com/review/show/6636939360?utm_medium=api&utm_source=rss) by Rick Riordan (⭐⭐⭐⭐⭐)
 - [Why I am an Atheist and Other Works](https://www.goodreads.com/review/show/6617989711?utm_medium=api&utm_source=rss) by Bhagat Singh (unrated)
