@@ -16,7 +16,6 @@
 
 <!-- GOODREADS-LIST:START -->
 - [The Titan’s Curse (Percy Jackson and the Olympians #3)](https://www.goodreads.com/review/show/6697550698?utm_medium=api&utm_source=rss) by Rick Riordan (⭐️4.37)
-- [Master Your Time, Master Your Life: The Breakthrough System to Get More Results, Faster, in Every Area of Your Life](https://www.goodreads.com/review/show/6578414152?utm_medium=api&utm_source=rss) by Brian Tracy (⭐️3.96)
 - [The Kite Runner](https://www.goodreads.com/review/show/5703446795?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
