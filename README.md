@@ -15,7 +15,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [If We Were Villains](https://www.goodreads.com/review/show/6689220357?utm_medium=api&utm_source=rss) by M.L. Rio (⭐️4.13)
+- [If We Were Villains](https://www.goodreads.com/review/show/6689220357?utm_medium=api&utm_source=rss) by M.L. Rio (⭐️4.12)
 - [The Titan’s Curse (Percy Jackson and the Olympians, #3)](https://www.goodreads.com/review/show/6697550698?utm_medium=api&utm_source=rss) by Rick Riordan (⭐️4.37)
 - [The Kite Runner](https://www.goodreads.com/review/show/5703446795?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
