@@ -24,11 +24,11 @@
 ### Last 5 Books I Have Read
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Master Your Time, Master Your Life: The Breakthrough System to Get More Results, Faster, in Every Area of Your Life](https://www.goodreads.com/review/show/6578414152?utm_medium=api&utm_source=rss) by Brian Tracy (⭐⭐⭐⭐)
-- [Solo leveling - light Novel 2 (Solo leveling Vol 2)](https://www.goodreads.com/review/show/3693864170?utm_medium=api&utm_source=rss) by Chugong (unrated)
-- [Animal Farm](https://www.goodreads.com/review/show/6856126903?utm_medium=api&utm_source=rss) by George Orwell (⭐⭐⭐⭐)
-- [The Sea of Monsters (Percy Jackson and the Olympians, #2)](https://www.goodreads.com/review/show/6636939360?utm_medium=api&utm_source=rss) by Rick Riordan (⭐⭐⭐⭐⭐)
-- [Why I am an Atheist and Other Works](https://www.goodreads.com/review/show/6617989711?utm_medium=api&utm_source=rss) by Bhagat Singh (unrated)
+- [The Kite Runner](https://www.goodreads.com/review/show/5703446795?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐⭐⭐⭐⭐)
+- [The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)](https://www.goodreads.com/review/show/7434924002?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐⭐⭐⭐⭐)
+- [The Butcher's Masquerade (Dungeon Crawler Carl, #5)](https://www.goodreads.com/review/show/7402754389?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐⭐⭐⭐⭐)
+- [The Gate of the Feral Gods (Dungeon Crawler Carl, #4)](https://www.goodreads.com/review/show/7378282245?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐⭐⭐⭐)
+- [The Dungeon Anarchist's Cookbook (Dungeon Crawler Carl, #3)](https://www.goodreads.com/review/show/7366096863?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <br /><br>
