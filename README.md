@@ -15,9 +15,9 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [If We Were Villains](https://www.goodreads.com/review/show/6689220357?utm_medium=api&utm_source=rss) by M.L. Rio (⭐️4.12)
+- [The Defining Decade: Why Your Twenties Matter—And How to Make the Most of Them Now](https://www.goodreads.com/review/show/7917467464?utm_medium=api&utm_source=rss) by Meg Jay (⭐️4.09)
+- [This Inevitable Ruin (Dungeon Crawler Carl, #7)](https://www.goodreads.com/review/show/7601470081?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐️4.64)
 - [The Titan’s Curse (Percy Jackson and the Olympians, #3)](https://www.goodreads.com/review/show/6697550698?utm_medium=api&utm_source=rss) by Rick Riordan (⭐️4.37)
-- [The Kite Runner](https://www.goodreads.com/review/show/5703446795?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
 
